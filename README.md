@@ -1,1 +1,1 @@
-# Python-bootcamp-project
+# Python bootcamp project
