@@ -2,7 +2,7 @@
 
 ## Personal portfolio based on bootcamp task requirements 
 
-`Data Science and Visualisations Bootcam in partnership with DfE UK` 
+`Data Science and Visualisations Bootcamp in partnership with DfE UK` 
 
 `Cisco Net Academy Certification`
 
